@@ -1,7 +1,7 @@
 # Overview
 Exploratory data analysis (EDA) of a mock healthcare insurance dataset containing health insurance charges and basic information of individuals around the US. My aim was to create a predictive model predicting healthcare charges based on a variety of variables relating to individuals lifestyle, demographic, and medical history. 
 
-The "Medical Cost Personal Dataset" was sourced from Kaggle and created by Miri Choi. It is licensed under the Open Data Commons Attribution License (ODC-By) and can be be accessed with this link [https://www.kaggle.com/datasets/mirichoi0218/insurance/data].
+This dataset, titled "Medical Cost Personal Dataset", was sourced from Kaggle and created by Miri Choi. It is licensed under the Open Data Commons Attribution License (ODC-By) and can be be accessed with this link [https://www.kaggle.com/datasets/mirichoi0218/insurance/data].
 
 EDA consisted of the following: 
 1. Checking distribution of charges vs biological sex, region, # number of children etc.
