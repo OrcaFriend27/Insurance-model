@@ -1,5 +1,7 @@
 # Insurance-model
-Exploratory data analysis of a mock healthcare insurance dataset containing health insurance charges and basic information of individuals around the US 
+Exploratory data analysis (EDA) of a mock healthcare insurance dataset containing health insurance charges and basic information of individuals around the US 
+
+"This dataset, [Medical Cost Personal Dataset], was sourced from [Kaggle] and created by [Miri Choi]. It is licensed under the Open Data Commons Attribution License (ODC-By) and can be be accessed with this link [https://www.kaggle.com/datasets/mirichoi0218/insurance/data]." 
 
 EDA consisted of the following: 
 1. Checking distribution of charges vs biological sex, region, # number of children etc.
